@@ -1,0 +1,12 @@
+*.swp
+*.swo
+*.pyc
+**/*.pyc
+**/*.swp
+**/*.swo
+logs
+slurm_logs
+multiNLI
+waterbirds
+celebA
+slurm/execute_*
